@@ -17,6 +17,7 @@ This assumes you have OXID eShop (at least `oxid-esales/oxideshop_ce: v7.0.0` co
 
 ## Branch compatibility
 
+* 4.0.x versions (or b-7.2.x branch) are compatible with OXID eShop compilation b-7.2.x (which uses `graphql-base` 10.x version resp. b-7.2.x branch)
 * 3.1.x versions (or b-7.1.x branch) are compatible with OXID eShop compilation b-7.1.x (which uses `graphql-base` 9.x version resp. b-7.1.x branch)
 * 3.x versions (or b-7.0.x branch) are compatible with OXID eShop compilation b-7.0.x (which uses `graphql-base` 8.x version resp. b-7.0.x branch)
 * ^2.1 versions (b-6.5.x branch) are compatible with OXID eShop compilation b-6.5.x (which uses `graphql-base` 7.x version resp. b-6.5.x branch)
